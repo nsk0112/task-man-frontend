@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  overflow-y: hidden;
+}
+
+/* @media screen and (min-height: 715px) {
+  .App{
+    overflow-y: hidden;
+  }
+} */
+
